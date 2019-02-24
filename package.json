@@ -2,6 +2,7 @@
   "name": "nancy-type",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://www.pickabar.com/nancy-type",
   "dependencies": {
     "react": "^16.7.0",
     "react-dom": "^16.7.0",

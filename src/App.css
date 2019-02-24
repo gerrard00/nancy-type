@@ -31,3 +31,17 @@
     transform: rotate(360deg);
   }
 }
+.score-display {
+  font-size: 10em;
+  color: green;
+}
+
+.next-key-display {
+  font-size: 10em;
+  color: black;
+}
+
+.wrong-key-display {
+  font-size: 10em;
+  color: red;
+}
