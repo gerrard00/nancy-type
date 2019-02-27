@@ -63,6 +63,8 @@ const levels = {
       ...firstRightHandKeys,
       ...firstLeftHandKeys,
       ...rightHandPinky,
+      ...rightHandPinky,
+      ...leftHandPinky,
       ...leftHandPinky,
     ]
   },
